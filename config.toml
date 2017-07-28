@@ -1,4 +1,4 @@
-baseURL = "https://dirtyonekanobi.github.io/miaweekend"
+baseURL = "http://example.com"
 languageCode = "en-us"
 title = "Mia Appreciation Weekend"
 theme = "dimension"
