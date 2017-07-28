@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://mia-weekend.netifly.com/"
 languageCode = "en-us"
 title = "Mia Appreciation Weekend"
 theme = "dimension"
