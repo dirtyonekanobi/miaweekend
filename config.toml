@@ -1,0 +1,12 @@
+baseURL = "https://dirtyonekanobi.github.io/miaweekend/"
+languageCode = "en-us"
+title = "Mia Appreciation Weekend"
+theme = "dimension"
+disableRSS = true
+publishDir = "docs"
+[params]
+  title = "Mia Appreciation Weekend"
+
+  description = '<!--[-->Welcome to the 1st Annual MIA APPRECIATION WEEKEND<!--]--><br />
+                <!--[-->This weekend will hopefully show 1/100000000th of the appreciation YOU deserve. Click the pages below for more info!<!--]-->'
+  logo = "fa-diamond"
